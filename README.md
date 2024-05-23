@@ -1,7 +1,7 @@
 # Laboratory Protocols
 
-## Environmental DNA (eDNA)
+### Environmental DNA (eDNA)
 
-## Population Genomics
+### Population Genomics
 
-## Epigenetic Aging
+### Epigenetic Aging
